@@ -11,7 +11,7 @@
 
 ## **📥 Installation Guide**
 1. **Go to the latest release**:  
-   [🔗 Click Here](https://github.com/YOUR_ORG/YOUR_REPO/releases/latest)  
+   [🔗 Click Here](https://github.com/marshall-district-library/mdl-tesseract/releases/latest)  
 2. **Download the installer** (`MDL_Tesseract.exe`).
 3. **Run the installer** and follow the steps.
 4. Once installed, a **shortcut** will be added to:
